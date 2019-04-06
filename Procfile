@@ -1,1 +1,0 @@
-web: gunicorn buyhome.wsgi --log-file -
