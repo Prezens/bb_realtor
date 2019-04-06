@@ -25,7 +25,7 @@ SECRET_KEY = 'fq8j77u&#q(s3959t_z@25upgwr+um)ji^y0i@kdxg)b%y4e6$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bb-realtor.herokuapp.com']
 
 
 # Application definition
